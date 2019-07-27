@@ -25,42 +25,36 @@ $(document).ready(
             $('#white_car_main').attr(
                 'src','/img/config/2-white-stock.png'
             );
-            console.log();
          });
 
          $('#white_m_rim').click(function(){
             $('#white_car_main').attr(
                 'src','/img/config/2-white-m.png'
             );
-            console.log();
          });
 
          $('#red_stock_rim').click(function(){
             $('#red_car_main').attr(
                 'src','/img/config/2-red-stock.png'
             );
-            console.log();
          });
 
          $('#red_m_rim').click(function(){
             $('#red_car_main').attr(
                 'src','/img/config/2-red-m.png'
             );
-            console.log();
          });
 
          $('#blue_stock_rim').click(function(){
             $('#blue_car_main').attr(
                 'src','/img/config/2-blue-stock.png'
             );
-            console.log();
          });
 
          $('#blue_m_rim').click(function(){
             $('#blue_car_main').attr(
                 'src','/img/config/2-blue-m.png'
             );
-            console.log();
          });
 
      });
