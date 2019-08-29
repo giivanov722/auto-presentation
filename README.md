@@ -1,7 +1,7 @@
 # Welcome to the auto-presentation app
 
 In this app I used Sass for styling, in order to use features like variables and nesting. I also used gulp 
-to compile Sass to CSS, to refresh the browser automatically whenever the file is saved and to serve the app.
+to compile Sass to CSS, to refresh the browser automatically whenever a file is saved and to serve the app.
 The app presents the models of a car automaker and also gives the chance to the user to use a configurator 
 with which he can choose a model to configure by changing its color and wheels.
 
